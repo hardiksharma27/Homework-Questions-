@@ -17,3 +17,9 @@ creditcard.make_payment()
 
 upi = UPI()
 upi.make_payment()
+
+OUTPUT --- 
+
+PS C:\next yug classes> & C:/Users/DELL/AppData/Local/Programs/Python/Python313/python.exe "c:/next yug classes/day 11 Q3.py"
+Paid using credit card
+Paid using UPI
