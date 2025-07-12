@@ -18,3 +18,10 @@ class Student:
 s1 = Student()
 s1.set_details("Ram", 85)
 s1.get_result()
+
+OUTPUT --- 
+
+PS C:\next yug classes> & C:/Users/DELL/AppData/Local/Programs/Python/Python313/python.exe "c:/next yug classes/day 11 Q1.py"
+Name: Ram
+Marks: 85
+Result: Pass
